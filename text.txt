@@ -5,3 +5,5 @@ This is the first pull request change, approved without changes.
 This is the second pull request change, approved with one change.
 
 This is the third pull request change, approved with two changes.
+
+This is the fourth pull request change.
