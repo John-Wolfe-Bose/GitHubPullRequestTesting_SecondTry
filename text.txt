@@ -6,4 +6,4 @@ This is the second pull request change, approved with one change.
 
 This is the third pull request change, approved with two changes.
 
-This is the fifth pull request change, with three changes.
+This is the fifth pull request change, approved with four changes.
